@@ -1,4 +1,4 @@
-//Garg 106117048
+//Mayank Garg 106117048
 // Optimized implementation of Bubble sort
 #include <stdio.h>
 
